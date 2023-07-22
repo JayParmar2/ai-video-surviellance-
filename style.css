@@ -1,0 +1,45 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+#start,#stop,#pause,#no_of_objects,#status
+{
+font-size: 20px;
+margin-top: 10px;
+}
+canvas{
+    border:2px solid wheat;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px gray;
+
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color:moccasin;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 2;
+    
+}
+#object_name{
+    width: 200px;
+    
+}
+
+
+
+
+
